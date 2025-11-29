@@ -1,0 +1,5 @@
+{
+  "name": "StoryToMedia AI",
+  "description": "Convert stories into synced images, audio narration, and motion videos using Gemini and Veo models.",
+  "requestFramePermissions": []
+}
